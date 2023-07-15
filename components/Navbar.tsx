@@ -6,7 +6,8 @@ export default function Navbar() {
         <Container maxW={"1200px"} py={4}>
             <Flex direction={"row"} justifyContent={"space-between"}>
                 <Heading>TinyStakes</Heading>
-                <Welcome To Our Tiny World!, Pls Connect Wallet to enjoy the ride />
+                <Welcome To Our Tiny World!,
+                Pls Connect Wallet to enjoy the ride />
             </Flex>
         </Container>
     )
